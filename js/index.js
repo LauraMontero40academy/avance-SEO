@@ -1,0 +1,3 @@
+var button_input = document.getElementById("button_input")
+
+button_input.onclick = ...
